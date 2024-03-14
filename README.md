@@ -2,7 +2,8 @@
 
 ## Installation
 
-- Open the file on a MACOS system, it should prompt to install
+- Unzip
+- Open the .workflow file on a MACOS system, it should prompt to install (it's a file only on MACOS, otherwise, it will be a directory)
 
 ## Usage
 
