@@ -11,3 +11,5 @@
 - Open the director, the movie series will now be names as S01E01.{ext}, S01E02.{ext}, ...etc
 
 ## Development, open the action in OS X App named `Automator` and edit the code directly.
+
+## This code is written by ChatGPT4.
